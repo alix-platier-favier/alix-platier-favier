@@ -50,7 +50,7 @@
  &emsp;👾&emsp;Tech enthusiast<br/><br/>
  &emsp;🎮&emsp;WoW addict<br/><br/>
  &emsp;🏋️&emsp;Gym rat<br/><br/>
- &emsp;❤️&emsp;Love to code and learning new features<br/><br/>
+ &emsp;❤️&emsp;Love to code and learn new features<br/><br/>
  &emsp;📧&emsp;Reach me anytime: alix.platier-favier@laplateforme.io
 </p>
 
