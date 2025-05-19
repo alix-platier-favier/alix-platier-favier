@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alix-platier-favier"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FF69B4&&width=435&lines=Hey+there+!+%E2%9C%A8;I'm+Alix+Platier-Favier;I'm+a+video+games+enjoyer;I'm+a+gym+addict;But+mostly+a+coffeeholic;Enjoy+my+profile+!" alt="Typing SVG" /></a>
+  <a href="https://github.com/alix-platier-favier"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FF69B4&&width=435&lines=Hey+there+!+%E2%9C%A8;I'm+Alix+Monteiro;I'm+a+video+games+enjoyer;I'm+a+gym+addict;But+mostly+a+coffeeholic;Enjoy+my+profile+!" alt="Typing SVG" /></a>
 </p>
 
 
